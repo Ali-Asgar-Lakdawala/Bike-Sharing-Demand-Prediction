@@ -35,7 +35,7 @@ We have created front-end using Streamlit for the webapp. whose deployments and 
 | Streamlit | https://share.streamlit.io/ali-asgar-lakdawala/ml-deployment/main/app.py |
 ## Conclusion
 
-* In all of these models, our accuracy revolves in the range of 56 to 91%..with the best fit model as LightGBM and Catboost model 
+* In all of these models, our adjusted R2 revolves in the range of 56 to 91%..with the best fit model as LightGBM and Catboost model 
 * We were successfull in deploying the strealit app on heruko .
 
 
