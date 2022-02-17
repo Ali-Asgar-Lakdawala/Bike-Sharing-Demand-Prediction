@@ -30,12 +30,13 @@ We have created front-end using Streamlit for the webapp. whose deployments and 
 
 | Website | Link |
 | ------ | ------ |
-| Github | https://github.com/Ali-Asgar-Lakdawala/ML-deployment |
-| Heroku | https://my-ml-deployment.herokuapp.com/ |
-| Streamlit | https://share.streamlit.io/ali-asgar-lakdawala/ml-deployment/main/app.py |
+| Github | https://github.com/Ali-Asgar-Lakdawala/my-ml-deployment-2 |
+| Heroku | https://my-ml-deployment-2.herokuapp.com/ |
+| Streamlit | https://share.streamlit.io/ali-asgar-lakdawala/my-ml-deployment-2/main/app.py|
+
 ## Conclusion
 
-* In all of these models, our adjusted R2 revolves in the range of 56 to 91%..with the best fit model as LightGBM and Catboost model 
+* In all of these models, our adjusted R2 revolves in the range of 56 to 91%.With the best fit model as LightGBM and Catboost model 
 * We were successfull in deploying the strealit app on heruko .
 
 
