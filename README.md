@@ -31,7 +31,7 @@ We have created front-end using Streamlit for the webapp. whose deployments and 
 | Website | Link |
 | ------ | ------ |
 | Github | https://github.com/Ali-Asgar-Lakdawala/ML-deployment |
-| Heroku | https://my-ml-deployments.herokuapp.com/ |
+| Heroku | https://my-ml-deployment.herokuapp.com/ |
 | Streamlit | https://share.streamlit.io/ali-asgar-lakdawala/ml-deployment/main/app.py |
 ## Conclusion
 
